@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cover.svg" alt="cover" width="100%" />
+</p>
+
 # RAAI Knowledge Base PRO v3.5.1
 
 **Internal knowledge and onboarding skill for Russian-speaking teams.**
