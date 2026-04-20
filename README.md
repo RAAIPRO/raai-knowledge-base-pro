@@ -1,33 +1,38 @@
-# AI-База знаний PRO v3.5
+# RAAI Knowledge Base PRO v3.5.1
 
-**Установка за 15 минут. Работает сразу. Заменяет HR-онбординг на 40-60%.**
+**Internal knowledge and onboarding skill for Russian-speaking teams.**
+Create one source of truth for FAQ, SOPs, onboarding, search, and knowledge-gap audits instead of scattered docs and repeated questions.
+
+## Use when
+- answers are repeated manually every day;
+- onboarding depends on a few people "who just know";
+- SOPs, FAQs, and policies are scattered across chats and docs.
+
+## What you get
+- structured FAQ / SOP / onboarding workflow;
+- searchable knowledge base for internal teams;
+- role-based onboarding support;
+- audit of gaps, duplicates, and outdated entries;
+- 5 proof cases with ruble-denominated ROI.
+
+**Price:** 30 000 ₽  
+**Market:** Russian-speaking teams from 5 to 200+ people  
+**Setup time:** ~15 minutes
 
 ## Quick Start
 
 ```bash
-# 1. Установить через ClawHub:
-clawhub install knowledge-base-pro
-
-# ИЛИ распаковать ZIP и запустить:
 bash install.sh
-
-# 2. Заполнить 4 OBLIGATORY поля в config.yaml:
-#    kb.storage_type / kb.language / kb.company_context / kb.team_size
-
-# 3. Smoke-тест:
-bash test/smoke-test.sh  # должен показать PASS
-
-# 4. Первый триггер:
-#    "база знаний" / "FAQ" / "онбординг новый сотрудник" / "найди: [вопрос]"
+bash test/smoke-test.sh
 ```
 
----
+Then open `config.yaml`, fill the required fields, and start with:
+- `knowledge base`
+- `FAQ`
+- `onboard a new employee`
+- `find: [question]`
 
-**Один источник правды для команды, который сокращает хаос, ускоряет онбординг и не даёт знаниям умирать в чатах.**
-
-Не просто FAQ и не склад документов. AI-База знаний PRO — это продукт для бизнеса, где знания уже стоят денег: сотрудники задают одни и те же вопросы, регламенты теряются, онбординг затягивается, а решения живут в голове пары людей.
-
-**Цена: 30 000 руб.**
+More setup help: `examples/quick-start.md`
 
 ---
 
