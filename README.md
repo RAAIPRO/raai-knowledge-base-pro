@@ -4,24 +4,29 @@
 
 # RAAI Knowledge Base PRO v3.5.1
 
-**Internal knowledge and onboarding skill for Russian-speaking teams.**
-Create one source of truth for FAQ, SOPs, onboarding, search, and knowledge-gap audits instead of scattered docs and repeated questions.
+**Stop losing time because knowledge lives in chats and in people’s heads.**
+Internal knowledge and onboarding skill for Russian-speaking teams: one source of truth for FAQ, SOPs, onboarding, search, and knowledge-gap audits.
 
 ## Use when
 - answers are repeated manually every day;
 - onboarding depends on a few people "who just know";
 - SOPs, FAQs, and policies are scattered across chats and docs.
 
-## What you get
-- structured FAQ / SOP / onboarding workflow;
-- searchable knowledge base for internal teams;
-- role-based onboarding support;
-- audit of gaps, duplicates, and outdated entries;
-- 5 proof cases with ruble-denominated ROI.
+## Business result
+- cut repeated internal questions;
+- reduce onboarding drag and dependency on key people;
+- detect knowledge gaps, duplicates, and outdated instructions;
+- use 5 proof cases with ruble-denominated ROI.
+
+## Before → After
+- **Before:** scattered docs, repeated questions, slow onboarding, dead knowledge.
+- **After:** one searchable source of truth with FAQ, SOP, onboarding, and audit flow.
+- **Payback:** typically **weeks, not months**, via faster onboarding and less repeated manual explanation.
 
 **Price:** 30 000 ₽  
 **Market:** Russian-speaking teams from 5 to 200+ people  
 **Setup time:** ~15 minutes
+**CTA:** Install yourself or hire RAAI to deploy it for your business.
 
 ## Quick Start
 
