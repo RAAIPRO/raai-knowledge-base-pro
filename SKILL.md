@@ -105,7 +105,7 @@ differentiators:
   - three_product_levels_skill_agent_app
 ---
 
-# AI-База знаний PRO v3.5
+# AI-База знаний PRO
 
 ---
 
