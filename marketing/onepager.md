@@ -78,7 +78,7 @@
 |---|---|---|---|
 | **Скилл-коробка** | SKILL.md + config.yaml + шаблоны + примеры | **30 000 ₽** | Кирилл и партнёры: установить самим, настроить под компанию |
 | **Агент под ключ** | Скилл + n8n + TG-бот + интеграция Notion/Google Drive | **30-80К ₽** | Компании 15-100ч: RAAI разворачивает, настраивает, передаёт |
-| **Приложение** | kb.raaipro.com с RAG по Notion/Confluence/Google Drive, кастомный домен, UI | **100-300К ₽** | Компании 50-200ч: своя KB-система с поиском по документам |
+| **Приложение** | custom knowledge portal with RAG for Notion/Confluence/Google Drive, client-owned domain, editor UI | **100-300К ₽** | Компании 50-200ч: своя KB-система с поиском по документам |
 
 ---
 
@@ -102,4 +102,4 @@
 
 ## Контакт
 
-**RAAI (ООО RAAI)** | Наталья Равильевна | https://raaipro.com | Telegram: @RAAI_manager
+**RAAI (ООО RAAI)** | Наталья Равильевна | [company site removed] | Telegram: @RAAI_manager

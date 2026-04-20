@@ -125,7 +125,7 @@ differentiators:
 |---|---|---|---|
 | **Скилл-коробка** | SKILL.md + config.yaml + шаблоны + примеры — устанавливается за 15 мин | **30К ₽** | Кирилл и партнёры: устанавливают сами |
 | **Агент под ключ** | Скилл + n8n + TG-бот поиска по KB + интеграция Notion/Google Drive | **30-80К ₽** | RAAI разворачивает, настраивает, передаёт |
-| **Приложение** | kb.raaipro.com — своя KB-система с RAG по Notion/Confluence/Google Drive, кастомный домен, UI для редакторов | **100-300К ₽** | Компании 50-200ч: полная система |
+| **Приложение** | custom KB system with RAG for Notion/Confluence/Google Drive, client-owned domain, editor UI | **100-300К ₽** | Компании 50-200ч: полная система |
 
 ---
 
